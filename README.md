@@ -1,8 +1,9 @@
 ### Welcome to Jason's Page!
-> [My Blog](https://www.jasonblog.xyz/)
+> [My Blog](https://doutv.github.io/)
 
 - TODO list:
   - [ ] Contribute to a open-sourse project
+  - [ ] Read some PEPs
   - [ ] Learn Java
 <!--
 **doutv/doutv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
