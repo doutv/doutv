@@ -1,5 +1,5 @@
 ### Welcome to Jason's Page!
-> [My Blog](https://doutv.github.io/)
+> My Blog: https://huangyongjin.com/
 
 - TODO list:
   - [ ] Contribute to a open-sourse project
