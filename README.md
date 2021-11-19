@@ -4,7 +4,7 @@
 - TODO list:
   - [ ] Contribute to a open-sourse project
   - [ ] Read some PEPs
-  - [ ] Learn Java
+  - [ ] Learn Golang
 <!--
 **doutv/doutv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
