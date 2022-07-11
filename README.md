@@ -3,8 +3,11 @@
 
 - TODO list:
   - [ ] Contribute to a open-sourse project
-  - [ ] Read some PEPs
-  - [ ] Learn Golang
+  
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=doutv)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  
 <!--
 **doutv/doutv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
