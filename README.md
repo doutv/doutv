@@ -1,8 +1,7 @@
 ### Welcome to Jason's Page!
-> My Blog: https://huangyongjin.com/
+- My Blog: https://huangyongjin.com/
+- Focusing on Polkadot & Rust & Haskell
 
-- TODO list:
-  - [ ] Contribute to a open-sourse project
   
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=doutv)](https://github.com/anuraghazra/github-readme-stats)
 
