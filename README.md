@@ -1,4 +1,3 @@
-### My Blog: https://huangyongjin.com/
 ### Focusing on Web3 & GPT Application
 
   
