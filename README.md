@@ -1,4 +1,4 @@
-### Focusing on Web3 & GPT Application
+### Focusing on Web3 | LLM
 
   
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=doutv)](https://github.com/anuraghazra/github-readme-stats)
