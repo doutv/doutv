@@ -1,4 +1,6 @@
-### Focusing on ZKP & Cryptography
+### Cryptography & AI
+
+### Follow me on https://x.com/backdoor705
 
   
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=doutv)](https://github.com/anuraghazra/github-readme-stats)
